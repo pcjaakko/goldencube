@@ -5,6 +5,6 @@ This is a list of the cards used in the "Golden Cube" used at the University of 
 asd
 
 
-#Drafting rules
-##Hardcore draft
-##Friendly draft
+# Drafting rules
+## Hardcore draft
+## Friendly draft
